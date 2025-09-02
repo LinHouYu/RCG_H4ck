@@ -1,6 +1,6 @@
 # River City Grils Trainer
 
-一个基于 **Python + PyQt6 + pymem** 开发的《热血少女（River City Girls）》修改器，支持金币与生命值的修改与冻结。
+一个基于 **Python + PyQt6 + pymem** 开发的《热血少女（River City Grils）》修改器，支持金币与生命值的修改与冻结。
 
 ## ✨ 功能特性
 - **金币修改**：支持直接设置任意金币数值
